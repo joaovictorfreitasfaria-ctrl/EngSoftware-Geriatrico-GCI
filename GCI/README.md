@@ -52,4 +52,4 @@ A documentação é gerada na pasta `docs/`. Abra `docs/index.html` no navegador
 
 ---
 
-https://github.com/JeanFarodev/Parte2-EngSoftware-Geriatrico
+https://github.com/JeanFarodev/EngSoftware-Geriatrico-GCI
